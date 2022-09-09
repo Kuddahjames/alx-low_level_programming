@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
-*main - entering point
+* main - entering point
 *
-*return: 0 after printing the put function
+* return: 0 after printing the put function
 */
 int main(void)
 {
